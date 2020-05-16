@@ -1,5 +1,5 @@
 # IR-remote-switch
-Infrared remote controle switch for mobile battery using ATtiny13A  
+Infrared remote control switch for mobile battery using ATtiny13A  
   
 モバイルバッテリー用の赤外線リモコンスイッチです。  
 受信機・送信機共にAVR(tiny13A)を使っています。  
